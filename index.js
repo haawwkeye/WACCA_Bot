@@ -13,9 +13,17 @@ const mysql = require("mysql");
 const fs = require("fs");
 const path = require("path");
 
-const logger = require(`${__dirname}/logger`);
-console.log(logger);
+const backup_logger = {
+	debug: console.debug,
+	error: console.error,
+	fatal: console.error,
+	trace: console.trace,
+	info: console.info,
+	warn: console.warn,
+}
 
+let logger = require(`${__dirname}/logger`);
+if (logger && !logger.info) logger = backup_logger;
 // Create a new client instance
 const client = new Client({
 	ws: {
@@ -96,13 +104,13 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 */
 // #endregion
 
-var database = null;
+let database = null;
 
 async function connectToDatabase()
 {
     if (database != null) { client.database = database; return database; }
 
-    var connection = mysql.createConnection({
+    let connection = mysql.createConnection({
         host     : process.env.db_host,
         user     : process.env.db_username,
         password : process.env.db_password,
