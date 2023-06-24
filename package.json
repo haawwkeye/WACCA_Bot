@@ -1,0 +1,32 @@
+{
+  "name": "wacca_bot",
+  "version": "1.0.0",
+  "description": "Bot for WACCA with artemis",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js deploy",
+    "start": "node . bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haawwkeye/WACCA_Bot.git"
+  },
+  "author": "Hawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haawwkeye/WACCA_Bot/issues"
+  },
+  "homepage": "https://github.com/haawwkeye/WACCA_Bot#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "like-process": "^1.1.2",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "pino": "^8.14.1"
+  }
+}
