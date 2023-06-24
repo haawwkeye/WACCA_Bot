@@ -35,15 +35,15 @@ const streams = [
 	{ stream: fs.createWriteStream(logFile, { flags: 'a' }) },
 ];
 
-// const logger = pino({
-// 	level: 'debug',
-// }, pinoms(streams));
+const logger = pino({
+	level: 'debug',
+}, pinoms(streams));
 
-const logger = {
-	debug: console.debug,
-	error: console.error,
-	info: console.info,
-	warn: console.warn,
-}
+// const logger = {
+// 	debug: console.debug,
+// 	error: console.error,
+// 	info: console.info,
+// 	warn: console.warn,
+// }
 
 module.exports = logger;
