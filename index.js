@@ -11,8 +11,10 @@ const owners = [process.env.ownerId];
 const mysql = require("mysql");
 
 const fs = require("fs");
-const logger = require(`${__dirname}/logger`);
 const path = require("path");
+
+const logger = require(`${__dirname}/logger`);
+console.log(logger);
 
 // Create a new client instance
 const client = new Client({

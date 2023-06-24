@@ -42,6 +42,8 @@ const logger = pino({
 // const logger = {
 // 	debug: console.debug,
 // 	error: console.error,
+// 	fatal: console.error,
+// 	trace: console.trace,
 // 	info: console.info,
 // 	warn: console.warn,
 // }
