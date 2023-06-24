@@ -6,6 +6,7 @@
   "scripts": {
     "deploy": "node deploy.js deploy",
     "start": "node . bot",
+    "clear": "node clearLogs clear",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
