@@ -65,16 +65,21 @@ module.exports = {
         let userSongEmbed = new EmbedBuilder()
                 .setColor(0x0099FF)
                 .setTitle(`${user.username}'s Last Played songs`);
-        // Have 1-3 songs listed only
-        for (let i = 0; i <= Math.min(rawPlaylogData.length, 2); i++) {
-            const playlog = rawPlaylogData[i];
-            const bestPlay = await query(database, `SELECT * FROM wacca_score_best WHERE user="${uid}" AND song_id="${playlog.song_id}" AND chart_id="${playlog.chart_id}"`);
-            
-            let bestScore = "";
-            if (!(bestPlay.length == 0)) bestScore = `\nBest Score: **${bestPlay[0].score}**`;
+        
+        if (rawPlaylogData.length > 0)
+        {
+            // Have 1-3 songs listed only
+            for (let i = 0; i <= Math.min(rawPlaylogData.length, 2); i++) {
+                const playlog = rawPlaylogData[i];
+                const bestPlay = await query(database, `SELECT * FROM wacca_score_best WHERE user="${uid}" AND song_id="${playlog.song_id}" AND chart_id="${playlog.chart_id}"`);
+                
+                let bestScore = "";
+                if (bestPlay.length != 0) bestScore = `\nBest Score: **${bestPlay[0].score}**`;
 
-            userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**\nDate Scored: **${dateToString(playlog.date_scored)}**` });
-        }
+                userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**\nDate Scored: **${dateToString(playlog.date_scored)}**` });
+            }
+        } else userSongEmbed.setDescription(`This user hasn't played any songs yet!`);
+        
 
         await interaction.reply({ embeds: [userEmbed, userSongEmbed], ephemeral: true });
 	},
