@@ -47,8 +47,10 @@ module.exports = {
 	async execute(interaction) {
         const client = interaction.client;
         const options = interaction.options ?? null;
+        
         const database = client.database;
         const query = client.queryDatabase;
+        
         const subcommand = options?.getSubcommand();
 
         if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });

@@ -24,9 +24,12 @@ module.exports = {
 	 */
 	async execute(interaction) {
         const client = interaction.client;
+        
+        const database = client.database;
         const query = client.queryDatabase;
+        const songList = client.songList;
+
         let uid = interaction.options.getNumber('userid');
-		let database = client.database;
         
         if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
 
