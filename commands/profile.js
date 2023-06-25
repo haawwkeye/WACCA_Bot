@@ -68,7 +68,7 @@ module.exports = {
         for (let i = 0; i < Math.min(rawPlaylogData.length, 2); i++) {
             const playlog = rawPlaylogData[i];
 
-            userSongEmbed.addFields({ name: playlog.song_id, value: `Score: ${playlog.score}\nMax Combo: ${playlog.max_combo}\nDate Scored: ${dateToString(playlog.date_scored)}` });
+            userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: ${playlog.score}\nMax Combo: ${playlog.max_combo}\nDate Scored: ${dateToString(playlog.date_scored)}` });
         }
 
         await interaction.reply({ embeds: [userEmbed, userSongEmbed], ephemeral: true });
