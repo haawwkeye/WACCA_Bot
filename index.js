@@ -99,6 +99,17 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 });
 // #endregion
 
+async function queryDatabase(database, command)
+{
+    if (!database || !command) return;
+    return await new Promise((res, rej) => {
+        database.query(command, (error, results, fields) => {
+            if (error) return rej(error);
+            res(results);
+        });
+    })
+}
+
 async function connectToDatabase()
 {
     if (database != null) { client.database = database; return database; }
@@ -134,6 +145,7 @@ connectToDatabase();
 
 client.connectToDatabase = connectToDatabase;
 client.database = database;
+client.queryDatabase = queryDatabase;
 
 
 client.logger = logger;

@@ -11,17 +11,6 @@ function dateToString(date)
     return str;
 }
 
-async function query(database, command)
-{
-    if (!database || !command) return;
-    return await new Promise((res, rej) => {
-        database.query(command, (error, results, fields) => {
-            if (error) return rej(error);
-            res(results);
-        });
-    })
-}
-
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('profile')
@@ -35,6 +24,7 @@ module.exports = {
 	 */
 	async execute(interaction) {
         const client = interaction.client;
+        const query = client.queryDatabase;
         let uid = interaction.options.getNumber('userid');
 		let database = client.database;
         
