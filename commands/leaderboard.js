@@ -48,8 +48,9 @@ module.exports = {
         const client = interaction.client;
         const options = interaction.options ?? null;
         const database = client.database;
-        const query = client.queryDatabase;        
-        
+        const query = client.queryDatabase;
+        const subcommand = options?.getSubcommand();
+
         if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
 
         // let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE user="${uid}";`);
@@ -59,7 +60,7 @@ module.exports = {
 
         // if (rawProfileData.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
 
-        if (options?.getSubcommand('global'))
+        if (subcommand == "global")
         {
             let uid = interaction.options.getNumber('userid');
             let rawProfileData = await query(database, `SELECT * FROM wacca_profile;`);
@@ -80,10 +81,27 @@ module.exports = {
 
             return await interaction.reply({ embeds:[lbEmbed], ephemeral: true });
         }
-        else if (options?.getSubcommand('song'))  
+        else if (subcommand == "song")  
         {
+            const songList = client.songList;
             let sid = interaction.options.getNumber('songid');
             let cid = interaction.options.getNumber('chartid');
+
+            let result = songList.find(song => {
+                return song.songId === sid;
+            });
+
+            if (result)
+            {
+                let lbEmbed = new EmbedBuilder()
+                    .setColor(0x0099FF)
+                    .setTitle(`${result.songName} by ${result.songArtist} Leaderboard`)
+                
+                if (result.songNameTranslated) lbEmbed.setDescription(`Translated Title: **${result.songNameTranslated}**`);
+                
+                return await interaction.reply({ embeds: [lbEmbed], ephemeral: true });
+            }
+            
             // TODO: Add Song support!
         }
 

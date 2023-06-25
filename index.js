@@ -149,6 +149,7 @@ client.queryDatabase = queryDatabase;
 
 
 client.logger = logger;
+client.songList = require(`${__dirname}/SongList.json`);
 
 let updating = false;
 
