@@ -235,7 +235,7 @@ client.on(Events.InteractionCreate, async interaction => {
 	const user = (interaction.user ?? interaction.member.user);
 	if (!isOwner(user.id))
 	{
-		if (ConfigFile.DevOnly && interaction.guildId !== '1122284041429844002') {
+		if (process.env.DevOnly == 'true' && interaction.guildId !== (process.env.guildId ?? '0')) {
 			if (interaction.isChatInputCommand()) interaction.reply({ content: 'There was an error with running this command', ephemeral: true });
 			return;
 		}
