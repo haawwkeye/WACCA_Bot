@@ -63,15 +63,28 @@ module.exports = {
                 const playlog = rawPlaylogData[i];
                 const bestPlay = await query(database, `SELECT * FROM wacca_score_best WHERE user="${uid}" AND song_id="${playlog.song_id}" AND chart_id="${playlog.chart_id}"`);
                 
+                let result = songList.find(song => {
+                    return song.songId === playlog.song_id;
+                });
+
                 let bestScore = "";
                 let bestCombo = "";
+                let translated = "";
+                let songName = playlog.song_id;
+
                 if (bestPlay.length != 0)
                 {
                     bestScore = `\nBest Score: **${bestPlay[0].score}**`;
                     bestCombo = `\nBest Max Combo: **${bestPlay[0].best_combo}**`;
                 }
+                if (result)
+                {
+                    if (result.songNameTranslated) translated = `Translated Title: **${result.songNameTranslated}**\n`;
+                    songName = `${result.songName} by ${result.songArtist}`;
+                }
+                
                 // TODO: Add grade stuff to this (Grade and Best Grade)
-                userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
+                userSongEmbed.addFields({ name: songName, value: `${translated}Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
             }
         } else userSongEmbed.setDescription(`This user hasn't played any songs yet!`);
         
