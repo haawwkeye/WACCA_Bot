@@ -39,7 +39,7 @@ module.exports = {
                     { name: "Expert", value: 2 },
                     { name: "INFERNO", value: 3 },
                 )
-                .setRequired(true))
+                .setRequired(false))
         ),
 	/**
 	 * @param {ChatInputCommandInteraction} interaction
@@ -47,7 +47,7 @@ module.exports = {
 	async execute(interaction) {
         const client = interaction.client;
         const options = interaction.options ?? null;
-        
+
         const database = client.database;
         const query = client.queryDatabase;
         

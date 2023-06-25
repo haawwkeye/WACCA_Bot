@@ -87,7 +87,7 @@ module.exports = {
                 }
                 
                 // TODO: Add grade stuff to this (Grade and Best Grade)
-                userSongEmbed.addFields({ name: songName, value: `${translated}Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
+                userSongEmbed.addFields({ name: songName, value: `SongId: ${playlog.song_id}\n${translated}Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
             }
         } else userSongEmbed.setDescription(`This user hasn't played any songs yet!`);
         
