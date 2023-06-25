@@ -65,9 +65,9 @@ module.exports = {
                 .setColor(0x0099FF)
                 .setTitle(`${user.username}'s Last Played songs`);
         // Have 1-3 songs listed only
-        for (let i = 0; i < Math.min(rawPlaylogData.length, 2); i++) {
+        for (let i = 0; i <= Math.min(rawPlaylogData.length, 2); i++) {
             const playlog = rawPlaylogData[i];
-
+            
             userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: ${playlog.score}\nMax Combo: ${playlog.max_combo}\nDate Scored: ${dateToString(playlog.date_scored)}` });
         }
 
