@@ -40,14 +40,15 @@ module.exports = {
         
         if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
 
-        let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE user=${uid}`);
-        let rawPlaylogData = await query(database, `SELECT * FROM wacca_score_playlog WHERE user=${uid}`);
+        let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE user="${uid}";`);
+        let rawPlaylogData = await query(database, `SELECT * FROM wacca_score_playlog WHERE user="${uid}";`);
         
         rawPlaylogData.sort((a, b) => b.id - a.id); // Sort from newest to oldest
 
         if (rawProfileData.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
+        
         let user = rawProfileData[0];
-
+        // So far from what I can tell level is just 1 every 1000 xp?
         let userLevel = Math.floor(user.xp / 100);
 
         let userEmbed = new EmbedBuilder()
@@ -67,8 +68,12 @@ module.exports = {
         // Have 1-3 songs listed only
         for (let i = 0; i <= Math.min(rawPlaylogData.length, 2); i++) {
             const playlog = rawPlaylogData[i];
+            const bestPlay = await query(database, `SELECT * FROM wacca_score_best WHERE user="${uid}" AND song_id="${playlog.song_id}" AND chart_id="${playlog.chart_id}"`);
             
-            userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: ${playlog.score}\nMax Combo: ${playlog.max_combo}\nDate Scored: ${dateToString(playlog.date_scored)}` });
+            let bestScore = "";
+            if (bestPlay.length == 0) bestScore = `Best Score: **${bestPlay[0].score}**`;
+            
+            userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**\nDate Scored: **${dateToString(playlog.date_scored)}**` });
         }
 
         await interaction.reply({ embeds: [userEmbed, userSongEmbed], ephemeral: true });
