@@ -134,5 +134,5 @@ dist
 RemoteConnect.bat
 __SongList.json
 __MusicList.json
-filter.js
-filter_Music.js
+# filter.js
+# filter_Music.js
