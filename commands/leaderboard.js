@@ -1,6 +1,13 @@
 // eslint-disable-next-line no-unused-vars
 const { SlashCommandBuilder, ChatInputCommandInteraction, EmbedBuilder } = require('discord.js');
 
+const diffList = [
+    "Normal",
+    "Hard",
+    "Expert",
+    "INFERNO"
+]
+
 function dateToString(date)
 {
     let str = date;
@@ -34,12 +41,12 @@ module.exports = {
                 .setName('chartid')
                 .setDescription('The chartId you want to get the leaderboard for')
                 .setChoices(
-                    { name: "Normal", value: 0 },
-                    { name: "Hard", value: 1 },
-                    { name: "Expert", value: 2 },
-                    { name: "INFERNO", value: 3 },
+                    { name: "Normal", value: 1 },
+                    { name: "Hard", value: 2 },
+                    { name: "Expert", value: 3 },
+                    { name: "INFERNO", value: 4 },
                 )
-                .setRequired(false))
+                .setRequired(true))
         ),
 	/**
 	 * @param {ChatInputCommandInteraction} interaction
@@ -55,6 +62,8 @@ module.exports = {
 
         if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
 
+        await interaction.deferReply({ ephemeral: true });
+
         // let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE user="${uid}";`);
         // let rawPlaylogData = await query(database, `SELECT * FROM wacca_score_playlog WHERE user="${uid}";`);
         
@@ -62,9 +71,9 @@ module.exports = {
 
         // if (rawProfileData.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
 
-        if (subcommand == "global")
+        if (subcommand === "global")
         {
-            let uid = interaction.options.getNumber('userid');
+            let uid = options.getNumber('userid');
             let rawProfileData = await query(database, `SELECT * FROM wacca_profile;`);
             let index = 0;
             let lbEmbed = new EmbedBuilder()
@@ -75,19 +84,21 @@ module.exports = {
             
             if (rawProfileData.length == 0) lbEmbed.setDescription(`No users found in the database!`);
             else rawProfileData.forEach(profile => {
+                if (index > 5) return;
                 index++;
                 if (uid == null || uid && profile.user == uid) lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: `Level: **${Math.floor(profile.xp / 100)}**\nXP: **${profile.xp}**\nRate: **${profile.rating}**` });
             });
 
             if (uid && lbEmbed.data.fields == null) lbEmbed.setDescription(`UserId "**${uid}**" not found in artemis database`);
 
-            return await interaction.reply({ embeds:[lbEmbed], ephemeral: true });
+            return await interaction.editReply({ embeds:[lbEmbed], ephemeral: true });
         }
-        else if (subcommand == "song")  
+        else if (subcommand === "song")  
         {
             const songList = client.songList;
-            let sid = interaction.options.getNumber('songid');
-            let cid = interaction.options.getNumber('chartid');
+            let index = 0;
+            let sid = options.getNumber('songid');
+            let cid = options.getNumber('chartid');
 
             let result = songList.find(song => {
                 return song.songId === sid;
@@ -95,18 +106,52 @@ module.exports = {
 
             if (result)
             {
+                let chartResult = result.difficulties.find(diff => {
+                    return diff.chartId === cid && diff.noteDesigner !== "-";
+                });
+
+                if (!chartResult) return await interaction.editReply({ content: `ChartId ${cid} not found in difficulty list`, ephemeral: true });
+
+                let desc = ""
+                if (result.songNameTranslated) desc = `Translated Title: **${result.songNameTranslated}**\n`;
+                desc += `Difficulty: ${diffList[cid-1]} (${chartResult.level})\nNote Designer: ${chartResult.noteDesigner}`;
+
+                let rawBestScoreData = await query(database, `SELECT * FROM wacca_score_best WHERE song_id="${sid}" AND chart_id="${cid}";`);
+
+                // console.log(cid);
+                // console.log(rawBestScoreData);
+
                 let lbEmbed = new EmbedBuilder()
                     .setColor(0x0099FF)
-                    .setTitle(`${result.songName} by ${result.songArtist} Leaderboard`)
+                    .setTitle(`${result.songName} by ${result.songArtist} Leaderboard`);
                 
-                if (result.songNameTranslated) lbEmbed.setDescription(`Translated Title: **${result.songNameTranslated}**`);
-                
-                return await interaction.reply({ embeds: [lbEmbed], ephemeral: true });
-            }
+                // TODO: Replace this with an more complex thing
+                // Reason being is that even if the score is the same doesn't mean one is better than the other
+                rawBestScoreData.sort((a, b) => b.score - a.score);
+
+                if (rawBestScoreData.length == 0) desc += "\n**No one has played this map on this difficulty yet!**"
+                else {
+                    for (let i = 0; i < rawBestScoreData.length; i++) {
+                        const data = rawBestScoreData[i];
+                        if (index > 5) return res(); // Finished loading!
+                        index++;
+
+                        let profile = await query(database, `SELECT * FROM wacca_profile WHERE user="${data.user}";`)
+                        if (!profile) profile = { username: `FAILED TO GET USER ${data.user}` };
+                        else profile = profile[0];
+
+                        lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: "TODO: Fill this with data" });
+                    }
+                }
+
+                lbEmbed.setDescription(desc)
+
+                return await interaction.editReply({ embeds: [lbEmbed], ephemeral: true });
+            } else return await interaction.editReply({ content: `SongId ${sid} not found in song list`, ephemeral: true });
             
             // TODO: Add Song support!
         }
 
-        await interaction.reply({ content: 'Unhandled leaderboard request.', ephemeral: true });
+        await interaction.editReply({ content: 'Unhandled leaderboard request.', ephemeral: true });
 	},
 };
