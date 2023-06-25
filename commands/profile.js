@@ -78,7 +78,7 @@ module.exports = {
                 if (bestPlay.length != 0)
                 {
                     bestScore = `\nBest Score: **${bestPlay[0].score}**`;
-                    bestCombo = `\nBest Combo: **${bestPlay[0].best_combo}**`;
+                    bestCombo = `\nBest Max Combo: **${bestPlay[0].best_combo}**`;
                 }
                 // TODO: Add grade stuff to this (Grade and Best Grade)
                 userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
