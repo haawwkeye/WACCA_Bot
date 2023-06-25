@@ -7,9 +7,12 @@ const { Client, Collection, Events, GatewayIntentBits, ApplicationCommandType, P
 // eslint-disable-next-line no-unused-vars
 const token = process.env.token;
 const owners = [process.env.ownerId];
+const scoresChannelId = process.env.scoresChannelId;
+const scoresUpdateMS = process.env.scoresUpdateMS;
 
 const mysql = require("mysql");
 let database = null;
+let scoresUpdateInt;
 
 const fs = require("fs");
 const path = require("path");
@@ -59,7 +62,6 @@ const client = new Client({
 });
 
 // #region Death
-/*
 const DEATH = require('like-process');
 let hasDied = false;
 let hasFileWrite = false;
@@ -81,7 +83,10 @@ DEATH.on('cleanup', () => {
 	if (hasFileWrite) return;
 	hasFileWrite = true;
 
-    if (database) database.destroy();
+	if (database) database.destroy();
+
+	if (client.botData) fs.writeFileSync(path.join(__dirname, "botdata.json"), JSON.stringify(client.botData, null, "\t"));
+
 	try {
 		// client.user.setStatus('invisible');
 		process.exit(-1);
@@ -98,7 +103,6 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 		console.log(`[DEATH] Event: ${evt} Error: ${err}`);
 	}
 });
-*/
 // #endregion
 
 async function queryDatabase(database, command)
@@ -154,6 +158,17 @@ client.logger = logger;
 client.songList = require(`${__dirname}/SongList.json`);
 
 let updating = false;
+
+function dateToString(date)
+{
+    let str = date;
+    try {
+        str = `<t:${(date.getTime() - date.getTimezoneOffset()*60*1000)/1000}:f>`;
+    } catch { /* empty block */ }
+    
+    return str;
+}
+client.dateToString = dateToString;
 
 async function sendLogMsg(guildId, opts) {
 	const data = database.data[guildId];
@@ -383,5 +398,21 @@ client.on(Events.InteractionCreate, async interaction => {
 
 // Log in to Discord with your client's token
 client.login(token);
+
+if (!fs.existsSync(path.join(__dirname, "botdata.json"))) fs.writeFileSync(path.join(__dirname, "botdata.json"), "{}");
+let botData = JSON.parse(fs.readFileSync(path.join(__dirname, "botdata.json")));
+let lastId = botData.lastScoreId ?? 0;
+
+client.botData = botData;
+
+scoresUpdateInt = setInterval(async () => {
+	if (!scoresChannelId) return clearInterval(scoresUpdateInt);
+	if (!client.scoresChannel) client.scoresChannel = await client.channels.fetch(scoresChannelId);
+	// let scoresChannel = client.scoresChannel;
+	// console.log(client.scoresChannel);
+
+	// Set lastId after doing everything!
+	client.botData.lastScoreId = lastId;
+}, scoresUpdateMS)
 
 module.exports = client;

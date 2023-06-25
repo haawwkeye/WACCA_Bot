@@ -1,16 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 const { SlashCommandBuilder, ChatInputCommandInteraction, EmbedBuilder } = require('discord.js');
 
-function dateToString(date)
-{
-    let str = date;
-    try {
-        str = `<t:${(date.getTime() - date.getTimezoneOffset()*60*1000)/1000}:f>`;
-    } catch { /* empty block */ }
-    
-    return str;
-}
-
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('profile')
@@ -24,6 +14,7 @@ module.exports = {
 	 */
 	async execute(interaction) {
         const client = interaction.client;
+        const dateToString = client.dateToString;
         
         const database = client.database;
         const query = client.queryDatabase;

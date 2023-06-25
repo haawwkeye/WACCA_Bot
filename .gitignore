@@ -136,3 +136,6 @@ __SongList.json
 __MusicList.json
 # filter.js
 # filter_Music.js
+
+# Prod Files
+botdata.json

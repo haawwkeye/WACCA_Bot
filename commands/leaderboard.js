@@ -8,16 +8,6 @@ const diffList = [
     "INFERNO"
 ]
 
-function dateToString(date)
-{
-    let str = date;
-    try {
-        str = `<t:${(date.getTime() - date.getTimezoneOffset()*60*1000)/1000}:f>`;
-    } catch { /* empty block */ }
-    
-    return str;
-}
-
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('leaderboard')
