@@ -48,7 +48,7 @@ module.exports = {
         if (rawProfileData.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
         
         let user = rawProfileData[0];
-        // So far from what I can tell level is just 1 every 1000 xp?
+        // So far from what I can tell level is just 1 every 100 xp?
         let userLevel = Math.floor(user.xp / 100);
 
         let userEmbed = new EmbedBuilder()
