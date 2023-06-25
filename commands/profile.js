@@ -74,9 +74,14 @@ module.exports = {
                 const bestPlay = await query(database, `SELECT * FROM wacca_score_best WHERE user="${uid}" AND song_id="${playlog.song_id}" AND chart_id="${playlog.chart_id}"`);
                 
                 let bestScore = "";
-                if (bestPlay.length != 0) bestScore = `\nBest Score: **${bestPlay[0].score}**`;
-
-                userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**\nDate Scored: **${dateToString(playlog.date_scored)}**` });
+                let bestCombo = "";
+                if (bestPlay.length != 0)
+                {
+                    bestScore = `\nBest Score: **${bestPlay[0].score}**`;
+                    bestCombo = `\nBest Combo: **${bestPlay[0].best_combo}**`;
+                }
+                // TODO: Add grade stuff to this (Grade and Best Grade)
+                userSongEmbed.addFields({ name: `${playlog.song_id}`, value: `Score: **${playlog.score}**${bestScore}\nMax Combo: **${playlog.max_combo}**${bestCombo}\nDate Scored: **${dateToString(playlog.date_scored)}**` });
             }
         } else userSongEmbed.setDescription(`This user hasn't played any songs yet!`);
         
