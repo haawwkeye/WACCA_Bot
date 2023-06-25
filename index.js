@@ -59,6 +59,7 @@ const client = new Client({
 });
 
 // #region Death
+/*
 const DEATH = require('like-process');
 let hasDied = false;
 let hasFileWrite = false;
@@ -97,6 +98,7 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 		console.log(`[DEATH] Event: ${evt} Error: ${err}`);
 	}
 });
+*/
 // #endregion
 
 async function queryDatabase(database, command)
