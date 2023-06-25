@@ -11,6 +11,17 @@ function dateToString(date)
     return str;
 }
 
+async function query(database, command)
+{
+    if (!database || !command) return;
+    return await new Promise((res, rej) => {
+        database.query(command, (error, results, fields) => {
+            if (error) return rej(error);
+            res(results);
+        });
+    })
+}
+
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('profile')
@@ -24,20 +35,18 @@ module.exports = {
 	 */
 	async execute(interaction) {
         const client = interaction.client;
-		let database = client.database;
-        if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
-        let result = await new Promise((res, rej) => {
-            database.query("SELECT * FROM wacca_profile", (error, results, fields) => {
-                if (error) return rej(error);
-                res(results);
-            });
-        })
-
         let uid = interaction.options.getNumber('userid');
-        let filter = result.filter(user => user.user == uid);
+		let database = client.database;
+        
+        if (!database) return await interaction.reply({ content: 'Failed to connect to artemis database', ephemeral: true });
 
-        if (filter.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
-        let user = filter[0];
+        let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE user=${uid}`);
+        let rawPlaylogData = await query(database, `SELECT * FROM wacca_score_playlog WHERE user=${uid}`);
+        
+        rawPlaylogData.sort((a, b) => b.id - a.id); // Sort from newest to oldest
+
+        if (rawProfileData.length == 0) return await interaction.reply({ content: `UserId "**${uid}**" not found in artemis database`, ephemeral: true });
+        let user = rawProfileData[0];
 
         let userLevel = Math.floor(user.xp / 100);
 
@@ -48,10 +57,20 @@ module.exports = {
                 { name: "Level", value: `${userLevel}` },
                 { name: "XP", value: `${user.xp}` },
                 { name: "Rate", value: `${user.rating}` },
-                { name: "Total Playcount", value: `${user.playcount_single + user.playcount_multi_vs + user.playcount_multi_coop + user.playcount_time_free + user.playcount_stageup}` },
-                { name: "Last login", value: `${dateToString(user.last_login_date)}`  }
+                { name: "Total Songs Played", value: `${rawPlaylogData.length}` },
+                { name: "Last login", value: `${dateToString(user.last_login_date)}` }
 			);
 
-        await interaction.reply({ embeds: [userEmbed], ephemeral: true });
+        let userSongEmbed = new EmbedBuilder()
+                .setColor(0x0099FF)
+                .setTitle(`${user.username}'s Last Played songs`);
+        // Have 1-3 songs listed only
+        for (let i = 0; i < Math.min(rawPlaylogData.length, 2); i++) {
+            const playlog = rawPlaylogData[i];
+
+            userSongEmbed.addFields({ name: song_id, value: `Score: ${playlog.score}\nMax Combo: ${playlog.max_combo}\nDate Scored: ${dateToString(playlog.date_scored)}` });
+        }
+
+        await interaction.reply({ embeds: [userEmbed, userSongEmbed], ephemeral: true });
 	},
 };
