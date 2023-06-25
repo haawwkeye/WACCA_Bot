@@ -9,6 +9,7 @@ const token = process.env.token;
 const owners = [process.env.ownerId];
 
 const mysql = require("mysql");
+let database = null;
 
 const fs = require("fs");
 const path = require("path");
@@ -57,6 +58,7 @@ const client = new Client({
 	],
 });
 
+// #region Death
 const DEATH = require('like-process');
 let hasDied = false;
 let hasFileWrite = false;
@@ -73,18 +75,12 @@ function createTempDir()
 createTempDir();
 client.createTempDir = createTempDir;
 client.tempDir = tempDir;
-/*
+
 DEATH.on('cleanup', () => {
 	if (hasFileWrite) return;
 	hasFileWrite = true;
 
-	// const date = new Date().getTime();
-	// fs.writeFileSync(lastCmd, date.toString());
-
-	if (fs.existsSync(tempDir)) fs.rmdirSync(tempDir);
-
-	// Database.saveDataSync(); // Save data before exit
-
+    if (database) database.destroy();
 	try {
 		// client.user.setStatus('invisible');
 		process.exit(-1);
@@ -101,10 +97,7 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 		console.log(`[DEATH] Event: ${evt} Error: ${err}`);
 	}
 });
-*/
 // #endregion
-
-let database = null;
 
 async function connectToDatabase()
 {
