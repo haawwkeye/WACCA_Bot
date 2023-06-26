@@ -484,19 +484,25 @@ scoresUpdateInt = setInterval(async () => {
 	let scoresChannel = client.scoresChannel;
 	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+10};`);
 	let embeds = [];
+	let hasError = false;
 
 	if (rawPlaylogData.length > 0)
 	{
-		lastId += rawPlaylogData.length; // Add only the amount the db has
-
-		for (let i = 0; i < rawPlaylogData.length; i++) {
-			const data = rawPlaylogData[i];
-			embeds.push(await createUserScoreEmbed(data));
+		try {
+			for (let i = 0; i < rawPlaylogData.length; i++) {
+				const data = rawPlaylogData[i];
+				embeds.push(await createUserScoreEmbed(data));
+			}
+		
+			scoresChannel.send({ embeds: embeds });
+		} catch (err) {
+			hasError = true;
+			logger.error(err);
 		}
-	
-		scoresChannel.send({ embeds: embeds });
 
+		if (hasError) return; // Skip due to error
 		// Set lastId after doing everything!
+		lastId += rawPlaylogData.length; // Add only the amount the db has
 		client.botData.lastScoreId = lastId;
 		if (client.botData) fs.writeFileSync(path.join(__dirname, "botdata.json"), JSON.stringify(client.botData, null, "\t"));
 	}
