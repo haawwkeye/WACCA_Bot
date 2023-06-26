@@ -7,22 +7,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 2,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 3,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -36,22 +36,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 2,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 3,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -65,22 +65,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 2,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 3,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -94,22 +94,22 @@
 		"songNameTranslated": "tutorial",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 2,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 3,
 				"noteDesigner": "-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -123,22 +123,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "ManiaQ vs Luxance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -152,22 +152,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -181,22 +181,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -210,22 +210,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "REDALiCE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "REDALiCE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "REDALiCE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -239,22 +239,22 @@
 		"songNameTranslated": "Extreme Room↑↑Music School feat. Nanahira",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "るくあんす↑↑ feat.ななハリ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -268,22 +268,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14,
 				"noteDesigner": "るくあんす"
 			}
@@ -297,22 +297,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "RequiEmoCosine…"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -326,22 +326,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -355,22 +355,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "スズコニ VS ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -384,22 +384,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "Mqance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -413,22 +413,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "るくあんす feat.\"ARCANA All Stars\""
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -442,22 +442,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -471,22 +471,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -500,22 +500,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -529,22 +529,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -558,22 +558,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "SUZUK0N1 & Z3NN1N"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -587,22 +587,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "Z3NN1N"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -616,22 +616,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -644,22 +644,22 @@
 		"songName": "1BPM",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "1TST"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -673,22 +673,22 @@
 		"songNameTranslated": "cutting edge shogun 3",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "【L3】るくあんす３【最先端】"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -702,22 +702,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "T+ VS OHTOMO"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "T+ VS OHTOMO"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "T+ VS OHTOMO"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -731,22 +731,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -760,22 +760,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -789,22 +789,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -818,22 +818,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋@3年間"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "タノシーストア高橋@本当に"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "タノシーストア高橋@ありがとう"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 12,
 				"noteDesigner": "THANK YOU FOR PLAYING"
 			}
@@ -847,22 +847,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -876,22 +876,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 8,
 				"noteDesigner": "スズコニ vs タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "スズコニ vs タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "BigBridge vs Aoki"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 15,
 				"noteDesigner": "The truth of the universe."
 			}
@@ -905,22 +905,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "スズコニ―ル"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "SUZUKONI(MSR's 70-Remix)"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -934,22 +934,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "Badman vs ManiaQ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -963,22 +963,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -992,22 +992,22 @@
 		"songNameTranslated": "God",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "Luxance:For the final match"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "Luxance:For the next challenger"
 			}
@@ -1021,22 +1021,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "WAiKURO"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "WAiKURO"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "WAIXURO"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1050,22 +1050,22 @@
 		"songNameTranslated": "Femme Fatale",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.1,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1079,22 +1079,22 @@
 		"songNameTranslated": "Agenagen",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1108,22 +1108,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "タノシーストア高橋vsるくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1137,22 +1137,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1166,22 +1166,22 @@
 		"songNameTranslated": "Yoshiwara Lament",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1195,22 +1195,22 @@
 		"songNameTranslated": "Tianle",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1224,22 +1224,22 @@
 		"songNameTranslated": "Melt",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1253,22 +1253,22 @@
 		"songNameTranslated": "Emperor Crimson",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "IV:THE EMPEROR/るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.2,
 				"noteDesigner": "Luxance"
 			}
@@ -1282,22 +1282,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "BigBridge"
 			}
@@ -1311,22 +1311,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "悪人"
 			}
@@ -1340,22 +1340,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "EmoCosine vs Luxance"
 			}
@@ -1369,22 +1369,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1398,22 +1398,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "Takahashi_T"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1427,22 +1427,22 @@
 		"songNameTranslated": "Powder bone crushing casino",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "粉骨砕身エモコ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1456,22 +1456,22 @@
 		"songNameTranslated": "Koi no Moonlight",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1485,22 +1485,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "Takahashi_T"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1514,22 +1514,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "Lu\"X\"ance:Disaster"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1543,22 +1543,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1572,22 +1572,22 @@
 		"songNameTranslated": "different!!!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "あおき!!!"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1601,22 +1601,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "Z3NNIN"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1630,22 +1630,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "o+omo"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "o+omo"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "o+omo"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1659,22 +1659,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "Everybody Say \"HARDCORE TANO*C\""
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1688,22 +1688,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "目を覚ましたmq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1717,22 +1717,22 @@
 		"songNameTranslated": "Hitogata",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "高橋タカ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1746,22 +1746,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1775,22 +1775,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1804,22 +1804,22 @@
 		"songNameTranslated": "hope for flowers",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1833,22 +1833,22 @@
 		"songNameTranslated": "onegai darling",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "お願いタカハシ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1862,22 +1862,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "otoMo@瑠区庵P"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1891,22 +1891,22 @@
 		"songNameTranslated": "Phantom Thief F Script (Scenario) ~The Mystery of the Missing Diamond~",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1920,22 +1920,22 @@
 		"songNameTranslated": "I'm bored",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.2,
 				"noteDesigner": "るくあんす"
 			}
@@ -1949,22 +1949,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "Fragile"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "Fragile"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "Fragile"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -1978,22 +1978,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "蒼樹"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2007,22 +2007,22 @@
 		"songNameTranslated": "Strongest STRONGER",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "REDALiCE vs MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "REDALiCE vs MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "REDALiCE vs MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2036,22 +2036,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2065,22 +2065,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "#エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "#エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "#EmoCosine"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2094,22 +2094,22 @@
 		"songNameTranslated": "Powder bone crushing casino",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2123,22 +2123,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "Luxance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2152,22 +2152,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "LUX"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2181,22 +2181,22 @@
 		"songNameTranslated": "super manji rush",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "超AOKIラッシュ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2210,22 +2210,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2239,22 +2239,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14,
 				"noteDesigner": "るくあんす"
 			}
@@ -2268,22 +2268,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2297,22 +2297,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2326,22 +2326,22 @@
 		"songNameTranslated": "Summertime Record",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2355,22 +2355,22 @@
 		"songNameTranslated": "darling dance",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2384,22 +2384,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2413,22 +2413,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "スズコニ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "SUZUKONI＆MSR Down!!"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2442,22 +2442,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "GENE+AOKI"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2471,22 +2471,22 @@
 		"songNameTranslated": "Sansara!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "えもこさいん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "えもこさいん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "えもこさいん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2500,22 +2500,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2529,22 +2529,22 @@
 		"songNameTranslated": "I am No 1!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "みかん☆はる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2558,22 +2558,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2587,22 +2587,22 @@
 		"songNameTranslated": "Solomon Knight",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "コードM"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "コードM"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "コードM"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2616,22 +2616,22 @@
 		"songNameTranslated": "Guru Guru DJ TURN!!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.1,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "MNH WACCA Mix"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2645,22 +2645,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "ぜんにん vs るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2674,22 +2674,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "mq+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2703,22 +2703,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2732,22 +2732,22 @@
 		"songNameTranslated": "Badly in the Rain feat. Kobayashi I",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2761,22 +2761,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2790,22 +2790,22 @@
 		"songNameTranslated": "Denran Countdown",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "ラブリー担当みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2819,22 +2819,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2848,22 +2848,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "るくあん＆みかはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.5,
 				"noteDesigner": "Easter egg!-H-G=16+"
 			}
@@ -2877,22 +2877,22 @@
 		"songNameTranslated": "meni meni mani mani",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "先輩と後輩とエモコ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2906,22 +2906,22 @@
 		"songNameTranslated": "Turin Koshiti",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2935,22 +2935,22 @@
 		"songNameTranslated": "Meltdown of the reactor core",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -2964,22 +2964,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "とぱぞ & オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "とぱぞ vs オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "とぱぞ = オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "MARVELOUS Fumen Team"
 			}
@@ -2993,22 +2993,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす & ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "るくあんす vs ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "るくあんす = ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "《BigBridge》†a.k.a†《Aoki》"
 			}
@@ -3022,22 +3022,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3051,22 +3051,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3080,22 +3080,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "mq+るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3109,22 +3109,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3138,22 +3138,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.8,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3167,22 +3167,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "やっぱギュッとずっとだきしめて高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "アンティークって言えばかっこいい橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3195,22 +3195,22 @@
 		"songName": "透明声彩",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3224,22 +3224,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "495年間一回もお外に出てないぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3253,22 +3253,22 @@
 		"songNameTranslated": "four-dimensional jumping engine",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "えびチャーハン+ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "えびチャーハン+ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "えびチャーハン+ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3282,22 +3282,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3311,22 +3311,22 @@
 		"songNameTranslated": "I can no longer see the Epicurus rainbow",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3340,22 +3340,22 @@
 		"songNameTranslated": "Cirno is Awakening Summer Days!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3369,22 +3369,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "BlackY vs みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "BlackY vs みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "Black Spring Magic"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3398,22 +3398,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "ぜんにん vs タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "ぜんにん vs タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "譜面の貴公子 vs ミスター譜面制作"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3427,22 +3427,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "とぱぞ&エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "とぱぞ&エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "とぱぞ&エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3456,22 +3456,22 @@
 		"songNameTranslated": "Mopemope",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぶらっきー"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "ぶらっきー"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "ぶらっきー"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3485,22 +3485,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3514,22 +3514,22 @@
 		"songNameTranslated": "If I could become someone's heart",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3543,22 +3543,22 @@
 		"songNameTranslated": "fixer",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3572,22 +3572,22 @@
 		"songNameTranslated": "Valerico",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3601,22 +3601,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "タノシーストア高橋 vs みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "タノシーストア高橋 vs みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "タノシーストア高橋 vs るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3630,22 +3630,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3659,22 +3659,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "BlackY + mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3688,22 +3688,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3717,22 +3717,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3746,22 +3746,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3775,22 +3775,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "EmoCosine"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3804,22 +3804,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3833,22 +3833,22 @@
 		"songNameTranslated": "telecaster beboy",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3862,22 +3862,22 @@
 		"songNameTranslated": "Tap, tap, hand, tap",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "シロ組のはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.8,
 				"noteDesigner": "梱包男性タカハシ"
 			}
@@ -3891,22 +3891,22 @@
 		"songNameTranslated": "What should non-existent girls do?",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "青藍島男性　るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3920,22 +3920,22 @@
 		"songNameTranslated": "Soothing Sukashi Negotiation",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3949,22 +3949,22 @@
 		"songNameTranslated": "Hoi Hoi ☆ Illusion Horoism",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "るくあんす@宝鐘の一味"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -3978,22 +3978,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "Lux4nce"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4007,22 +4007,22 @@
 		"songNameTranslated": "groove the heart",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4036,22 +4036,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "Reacts Caw Am?"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4065,22 +4065,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "t+pazolite"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "t+pazolite"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "t+pazolite"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4094,22 +4094,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4123,22 +4123,22 @@
 		"songNameTranslated": "Tropica☆Vacation",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.7,
 				"noteDesigner": "ナンニデーモ蜜柑"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4152,22 +4152,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4181,22 +4181,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4210,22 +4210,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4239,22 +4239,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "Ash"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4268,22 +4268,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4297,22 +4297,22 @@
 		"songNameTranslated": "Quarantine ≡ Thanatos",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "Mqance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4326,22 +4326,22 @@
 		"songNameTranslated": "Our 16bit War",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "kurus+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "kurus+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "エモコサイン＋くるす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4355,22 +4355,22 @@
 		"songNameTranslated": "World is Mine",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "タノシーストア高橋+みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "タノシーストア高橋+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4384,22 +4384,22 @@
 		"songNameTranslated": "Shakariki Fight Boom Boom",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "kurus+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.7,
 				"noteDesigner": "kurus+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "kurus+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4413,22 +4413,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4442,22 +4442,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "とぱぞ vs オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "とぱぞ vs オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "とぱぞ vs オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4471,22 +4471,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "mq「え アタシ！？」"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4500,22 +4500,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "From Zennin"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4529,22 +4529,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4558,22 +4558,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "ルクアンス・ファミリア"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4587,22 +4587,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.5,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.7,
 				"noteDesigner": "蜜柑の少年"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4616,22 +4616,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "みかんのはる＠星詠み"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4645,22 +4645,22 @@
 		"songNameTranslated": "To the dreaming sky",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "とまらないるくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "とまらないるくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "とまらないるくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4674,22 +4674,22 @@
 		"songNameTranslated": "new wave",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.1,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.3,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4703,22 +4703,22 @@
 		"songNameTranslated": "Hageshiko no Yoru -Psylent Crazy Night-",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "Psylent Crazy Luxance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4732,22 +4732,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4761,22 +4761,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4790,22 +4790,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.1,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4819,22 +4819,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "MARVELOUS Fumen Team"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4848,22 +4848,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4877,22 +4877,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4906,22 +4906,22 @@
 		"songNameTranslated": "free fall",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4935,22 +4935,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4964,22 +4964,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -4993,22 +4993,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5022,22 +5022,22 @@
 		"songNameTranslated": "cat girl",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "ぜんにん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5051,22 +5051,22 @@
 		"songNameTranslated": "Macho name?",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "mq+MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5080,22 +5080,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "M-Sam-R"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "M-Sam-R"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "M-Sam-R"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5109,22 +5109,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5138,22 +5138,22 @@
 		"songNameTranslated": "With a tremendous momentum, Kene is a tremendous song",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "物凄いタノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "物凄いタノシーでストアが物凄い橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5167,22 +5167,22 @@
 		"songNameTranslated": "Stops at the affected area and melts immediately ~ Udumkain of madness",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "狂気のるくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5196,22 +5196,22 @@
 		"songNameTranslated": "Panic Pop☆Festival!!!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5225,22 +5225,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "BlackY"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "WAiKURO"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "BlackBridge"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5254,22 +5254,22 @@
 		"songNameTranslated": "Brain Explosion Girl",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5283,22 +5283,22 @@
 		"songNameTranslated": "hibikase",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハン+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "えびチャーハン+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "えびチャーハン+るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5312,22 +5312,22 @@
 		"songNameTranslated": "Asno Yozora Patrol Team",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5341,22 +5341,22 @@
 		"songNameTranslated": "Sparkling start",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "しっかり者mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "えもいmq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.2,
 				"noteDesigner": "キラッと☆mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5370,22 +5370,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.4,
 				"noteDesigner": "るくあんっ！"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5399,22 +5399,22 @@
 		"songNameTranslated": "Heart ♥ Iro ♥ Toridori~mu",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.1,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5427,22 +5427,22 @@
 		"songName": "Make it！ (DJ Genki Remix)",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "a☆Oki"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "私立トンカツ学園あおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5456,22 +5456,22 @@
 		"songNameTranslated": "Kiratto Start (USAO Remix)",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "オオきなおトモだち"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5485,22 +5485,22 @@
 		"songNameTranslated": "Say! Fanfare!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "るくあんす＠すこん部"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5514,22 +5514,22 @@
 		"songNameTranslated": "Sparkling Rider☆",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "とまらないレッドアリス+みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7,
 				"noteDesigner": "とまらないレッドアリス+みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "とまらないレッドアリス+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5543,22 +5543,22 @@
 		"songNameTranslated": "Pekomiko Great War! !",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.2,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.2,
 				"noteDesigner": "るくなな大戦争！！"
 			}
@@ -5572,22 +5572,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5601,22 +5601,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "ななまがりハリケーン a.k.a. るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5630,22 +5630,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "MSR+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5659,22 +5659,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5688,22 +5688,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5717,22 +5717,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5746,22 +5746,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.6,
 				"noteDesigner": "タノシーストア高橋+みかんのはる"
 			}
@@ -5775,22 +5775,22 @@
 		"songNameTranslated": "Indoor track maker",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "るくあんす -track maker-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5804,22 +5804,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5833,22 +5833,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5862,22 +5862,22 @@
 		"songNameTranslated": "Meisei Rocket",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5891,22 +5891,22 @@
 		"songNameTranslated": "Yukemuri Tamashii Onsen II",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5920,22 +5920,22 @@
 		"songNameTranslated": "39 Music!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5949,22 +5949,22 @@
 		"songNameTranslated": "Gimme×Gimme feat. Hatsune Miku, Kagamine Rin",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -5978,22 +5978,22 @@
 		"songNameTranslated": "Positive☆Dance Time",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "譜面道+みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "譜面道+みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "譜面道+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6007,22 +6007,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6036,22 +6036,22 @@
 		"songNameTranslated": "gabriel drop kick",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.9,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6065,22 +6065,22 @@
 		"songNameTranslated": "bite the second hand",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6094,22 +6094,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6123,22 +6123,22 @@
 		"songNameTranslated": "smile and tears",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.1,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.5,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6152,22 +6152,22 @@
 		"songNameTranslated": "tour final",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6181,22 +6181,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6210,22 +6210,22 @@
 		"songNameTranslated": "a wish on the wind",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.1,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6239,22 +6239,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "MSr"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.2,
 				"noteDesigner": "MSr"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.2,
 				"noteDesigner": "MSr"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6268,22 +6268,22 @@
 		"songNameTranslated": "Tenno weak",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6297,22 +6297,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "とぱぞら"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.2,
 				"noteDesigner": "とぱのぞら"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6326,22 +6326,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.5,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "とまらないレッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6355,22 +6355,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "えびチャーハンオオト盛"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6384,22 +6384,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "†Luxance†"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6413,22 +6413,22 @@
 		"songNameTranslated": "Night of Nights (Camellia's “Once Upon a Night” Remix)",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6442,22 +6442,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "止まらないGENE+なんか静かなSam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "止まらないGENE+なんか静かなSam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.6,
 				"noteDesigner": "止まらないGENE+なんか静かなSam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6471,22 +6471,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "XCI League Rub Inch"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6500,22 +6500,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.6,
 				"noteDesigner": "NANAMAGARI Rumble"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6529,22 +6529,22 @@
 		"songNameTranslated": "heartbeat of the saint",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6558,22 +6558,22 @@
 		"songNameTranslated": "Kimi no Starlight Road",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6587,22 +6587,22 @@
 		"songNameTranslated": "cycle hit",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6616,22 +6616,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6645,22 +6645,22 @@
 		"songNameTranslated": "love metal",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "蜜柑野春"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6674,22 +6674,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "高橋（タノシーストア）"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6703,22 +6703,22 @@
 		"songNameTranslated": "Dancing☆Samurai",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6732,22 +6732,22 @@
 		"songNameTranslated": "angel halo",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 7,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "The Forgiven Man VS LRQ&業火道"
 			}
@@ -6761,22 +6761,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14,
 				"noteDesigner": "ManiaQ vs BigBridge"
 			}
@@ -6790,22 +6790,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6819,22 +6819,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.1,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6848,22 +6848,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6877,22 +6877,22 @@
 		"songNameTranslated": "Venom",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6906,22 +6906,22 @@
 		"songNameTranslated": "ghost's appeal",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6935,22 +6935,22 @@
 		"songNameTranslated": "Churrilla Churrilla Daddadda!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6964,22 +6964,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -6993,22 +6993,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "譜面道"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "譜面道"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "GOODFUMEN"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7022,22 +7022,22 @@
 		"songNameTranslated": "Progression WARS feat. Beat Mario",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7051,22 +7051,22 @@
 		"songNameTranslated": "How is your progress?",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7080,22 +7080,22 @@
 		"songNameTranslated": "How's your progress?",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7108,22 +7108,22 @@
 		"songName": "Bravely You",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7137,22 +7137,22 @@
 		"songNameTranslated": "A blend of bullshit minuses and pluses",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.7,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10,
 				"noteDesigner": "とんかつあおき@麻冬推し"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7166,22 +7166,22 @@
 		"songNameTranslated": "Bonape Teeto♡S",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "るくあんす・A"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7195,22 +7195,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7224,22 +7224,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "譜面道"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "譜面道"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "譜面道+ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7253,22 +7253,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7282,22 +7282,22 @@
 		"songNameTranslated": "Kamiji",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "神さびたかはし"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.5,
 				"noteDesigner": "乾を創造する程度の高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7311,22 +7311,22 @@
 		"songNameTranslated": "Tengu's Message feat. ytr",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7340,22 +7340,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7369,22 +7369,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "譜面道+Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.2,
 				"noteDesigner": "譜面道+Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "譜面道"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7398,22 +7398,22 @@
 		"songNameTranslated": "burikino dance",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7427,22 +7427,22 @@
 		"songNameTranslated": "Kagerou Days",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "クリギリサヤカ -目を晦ます-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7456,22 +7456,22 @@
 		"songNameTranslated": "Setsuna trip",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7485,22 +7485,22 @@
 		"songNameTranslated": "sacrifice",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "擬神兵ルクアンス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7514,22 +7514,22 @@
 		"songNameTranslated": "Charles",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.1,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7543,22 +7543,22 @@
 		"songNameTranslated": "Dramaturgy",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.1,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7572,22 +7572,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "るくあんす+コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7601,22 +7601,22 @@
 		"songNameTranslated": "Bēsurain yatteru? Emi (aka, are you doing a baseline? smile)",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "ぎゃんかわ橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "テンアゲ橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7630,22 +7630,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7659,22 +7659,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7688,22 +7688,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7717,22 +7717,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.4,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7746,22 +7746,22 @@
 		"songNameTranslated": "mischievous sensation",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "ハッとなってるくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "きゅっとしてるくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "ドッカーン！るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7775,22 +7775,22 @@
 		"songNameTranslated": "Roku Chounen to Ichiya Monogatari",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7804,22 +7804,22 @@
 		"songNameTranslated": "E-ALFan Club",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "炭火焼き推奨P"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.5,
 				"noteDesigner": "炭火焼き推奨P"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10,
 				"noteDesigner": "炭火焼き推奨P"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7833,22 +7833,22 @@
 		"songNameTranslated": "Go 哭 of Rosutowan",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7862,22 +7862,22 @@
 		"songNameTranslated": "dadadada angel",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "レレレレレッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7891,22 +7891,22 @@
 		"songNameTranslated": "Aozora no Rhapsody",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.8,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.3,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 11,
 				"noteDesigner": "みかんのはるS"
 			}
@@ -7920,22 +7920,22 @@
 		"songNameTranslated": "onegai muscle",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.7,
 				"noteDesigner": "みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7949,22 +7949,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "M.S.R."
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.1,
 				"noteDesigner": "M.S.R."
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.2,
 				"noteDesigner": "M.S.R."
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -7978,22 +7978,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10,
 				"noteDesigner": "例のセーター高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "持ち回り高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8007,22 +8007,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.4,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "えびチャーハン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8036,22 +8036,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.6,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.4,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8065,22 +8065,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9,
 				"noteDesigner": "スーパー　ゼブラんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8094,22 +8094,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8123,22 +8123,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.2,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8152,22 +8152,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8181,22 +8181,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.4,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8210,22 +8210,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8239,22 +8239,22 @@
 		"songNameTranslated": "Machibito wa Kozu.",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.4,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8268,22 +8268,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.2,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8297,22 +8297,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8326,22 +8326,22 @@
 		"songNameTranslated": "reincarnation",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.1,
 				"noteDesigner": "るくあんす -Re:Newal-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8355,22 +8355,22 @@
 		"songNameTranslated": "Strike the Blood",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "栗霧 さやか+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "栗霧紗矢華&瑠区庵"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8384,22 +8384,22 @@
 		"songNameTranslated": "Odloop",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8413,22 +8413,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "許されるとぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "まだ許されるとぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.9,
 				"noteDesigner": "とぱぞ「だってxi君が」"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8442,22 +8442,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8471,22 +8471,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8500,22 +8500,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "mq@全機種勢"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8529,22 +8529,22 @@
 		"songNameTranslated": "Cirno's Perfect Math Class",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "9.ＧＥＮＥ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "おてんばＧＥＮＥ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "日焼けしたＧＥＮＥ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8558,22 +8558,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "TANO*C Fumen Team"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 14.1,
 				"noteDesigner": "WACCA Fumen Team"
 			}
@@ -8587,22 +8587,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "mq + るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8616,22 +8616,22 @@
 		"songNameTranslated": "bang bang dong dong",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8645,22 +8645,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ハモナーアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "ハモナーアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "ハモナー永井"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8674,22 +8674,22 @@
 		"songNameTranslated": "scramble dating",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8703,22 +8703,22 @@
 		"songNameTranslated": "Otome Anatomy",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "炭火焼き推奨P"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.2,
 				"noteDesigner": "Sam+炭火焼き推奨P"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8732,22 +8732,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.4,
 				"noteDesigner": "佐藤+コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8761,22 +8761,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.1,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8790,22 +8790,22 @@
 		"songNameTranslated": "Peach as a faint",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "つるぺたるくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8819,22 +8819,22 @@
 		"songNameTranslated": "Game Over (feat. TORIENA)",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "るくあんす -Game Over-"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8848,22 +8848,22 @@
 		"songNameTranslated": "Apparently there is a hidden command to be happy",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "瑠区庵 譜面 出張 残業"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8877,22 +8877,22 @@
 		"songNameTranslated": "reincarnation",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8906,22 +8906,22 @@
 		"songNameTranslated": "Cruel Angel's Thesis",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "ナガイゲリオン弐号機"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.3,
 				"noteDesigner": "ナガイゲリオン弐号機"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.3,
 				"noteDesigner": "ナガイゲリオン弐号機"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8935,22 +8935,22 @@
 		"songNameTranslated": "feeling of equality",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.1,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.9,
 				"noteDesigner": "上杉るー太郎"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8964,22 +8964,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq+うつぼ。"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "mq+うつぼ。"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "mq+うつぼ。"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -8993,22 +8993,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "転生したら栗霧さやかだった件"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9022,22 +9022,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "エモコサイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9051,22 +9051,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.8,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "タノシーストア高橋@ツアー全通"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9080,22 +9080,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9109,22 +9109,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9138,22 +9138,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "ミルクプロテイン+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "ミルクプロテイン+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "ミルクプロテイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9167,22 +9167,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9196,22 +9196,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.5,
 				"noteDesigner": "栗霧 さやか"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9225,22 +9225,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "ななまがりハリケーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9254,22 +9254,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "ミルクプロテイン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "ミルクプロテイン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "ミルクプロテイン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9283,22 +9283,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "Mqance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9312,22 +9312,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9341,22 +9341,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.8,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.9,
 				"noteDesigner": "IX:THE HERMIT/るくあんす"
 			}
@@ -9370,22 +9370,22 @@
 		"songNameTranslated": "BLUE SKY feat. Ayumi Nomiya",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9399,22 +9399,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9428,22 +9428,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.1,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9457,22 +9457,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.6,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9486,22 +9486,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.3,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9515,22 +9515,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14.1,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9544,22 +9544,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.4,
 				"noteDesigner": "Mqance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9573,22 +9573,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9602,22 +9602,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.4,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9631,22 +9631,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9660,22 +9660,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 7,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 14,
 				"noteDesigner": "REDALiCE vs Luxance"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9689,22 +9689,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.2,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.1,
 				"noteDesigner": "1000×1000 shall"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9718,22 +9718,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.1,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9747,22 +9747,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.5,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9776,22 +9776,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "ミルクプロテイン+mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.4,
 				"noteDesigner": "ミルクプロテイン+mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.7,
 				"noteDesigner": "ミルクプロテイン+mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.9,
 				"noteDesigner": "XV:THE DEVIL/るくあんす"
 			}
@@ -9805,22 +9805,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.9,
 				"noteDesigner": "XIII:Death/るくあんす"
 			}
@@ -9834,22 +9834,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 11,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9863,22 +9863,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "炎剣のレッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.1,
 				"noteDesigner": "炎剣のレッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "炎剣のレッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9892,22 +9892,22 @@
 		"songNameTranslated": "the rallying splendor",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.9,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9921,22 +9921,22 @@
 		"songNameTranslated": "Ride this feeling from Rune Factory 4 Special",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9950,22 +9950,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -9979,22 +9979,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10008,22 +10008,22 @@
 		"songNameTranslated": "Theme of 'Eccentric Boy Bowie'",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "エキセントリックレッドアリスボウイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.7,
 				"noteDesigner": "エキセントリックレッドアリスボウイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "エキセントリックレッドアリスボウイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10037,22 +10037,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10066,22 +10066,22 @@
 		"songNameTranslated": "My dream is a hell of an infinite spring",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "五度寝したいとぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.6,
 				"noteDesigner": "ストパー後にパーマしたいとぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "爆破する側に回りたいとぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.8,
 				"noteDesigner": "無限ジャンプしたいるくあんす"
 			}
@@ -10095,22 +10095,22 @@
 		"songNameTranslated": "Hello, this is ARuFa.",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "さとう"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.5,
 				"noteDesigner": "サトウ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "佐藤"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10124,22 +10124,22 @@
 		"songNameTranslated": "Inferior superior",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10153,22 +10153,22 @@
 		"songNameTranslated": "Flagir",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.3,
 				"noteDesigner": "オオトモ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10182,22 +10182,22 @@
 		"songNameTranslated": "Akali has arrived",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "とぱぞもやってきたぞっ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.5,
 				"noteDesigner": "とぱぞもやってきちゃった"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.2,
 				"noteDesigner": "とぱぞは来なくていいよ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10211,22 +10211,22 @@
 		"songNameTranslated": "Seyana.",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.3,
 				"noteDesigner": "言うことを聞いてくれるレッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.7,
 				"noteDesigner": "何でも言うことを聞いてくれるレッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10240,22 +10240,22 @@
 		"songNameTranslated": "sea ​​lily undersea story",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.1,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.2,
 				"noteDesigner": "mq"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10269,22 +10269,22 @@
 		"songNameTranslated": "Worlds End Dancehall",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.6,
 				"noteDesigner": "あおき"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.5,
 				"noteDesigner": "とんかつあおき"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10298,22 +10298,22 @@
 		"songNameTranslated": "Disappearance of Real Hatsune Miku",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.7,
 				"noteDesigner": "FAKE: THE END OF LUXANCE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10327,22 +10327,22 @@
 		"songNameTranslated": "Disappearance of Hatsune Miku",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "栗霧さやかの消失"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10356,22 +10356,22 @@
 		"songNameTranslated": "Gimme Chocolate!!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.3,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10385,22 +10385,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.5,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10,
 				"noteDesigner": "コウメイ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10414,22 +10414,22 @@
 		"songNameTranslated": "New Treasure Island",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.3,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.4,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10443,22 +10443,22 @@
 		"songNameTranslated": "asking for something you don't have",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "kurus"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.1,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10472,22 +10472,22 @@
 		"songNameTranslated": "it's just sunny for you",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.6,
 				"noteDesigner": "うつぼ。"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10501,22 +10501,22 @@
 		"songNameTranslated": "Umar Bellas",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.8,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.8,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10530,22 +10530,22 @@
 		"songNameTranslated": "solar system disco",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10559,22 +10559,22 @@
 		"songNameTranslated": "Whimsical Mercy feat. Hatsune Miku",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "全然レッドアリスに興味ないじゃん"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.4,
 				"noteDesigner": "やっぱりレッドアリスに興味ないじゃん"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "そもそもだいたいレッドアリスに興味ないじゃん"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10588,22 +10588,22 @@
 		"songNameTranslated": "Loki",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "さとう+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.4,
 				"noteDesigner": "サトウ+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "佐藤"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10617,22 +10617,22 @@
 		"songNameTranslated": "ghost rule",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.6,
 				"noteDesigner": "GENE"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10646,22 +10646,22 @@
 		"songNameTranslated": "Welcome to Japari Park",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.6,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.7,
 				"noteDesigner": "るくあんす"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10675,22 +10675,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "Sam+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10704,22 +10704,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.5,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10733,22 +10733,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "栗霧 さやか+みかんのはる"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "栗霧 さやか+みかんのはる"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10,
 				"noteDesigner": "栗霧 さやか+みかんのはる"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10762,22 +10762,22 @@
 		"songNameTranslated": "flower necromancy",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.9,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10791,22 +10791,22 @@
 		"songNameTranslated": "Nimensei☆Uraomote Life!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "さとう+るくあんす"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.8,
 				"noteDesigner": "サトウ+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "佐藤"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10820,22 +10820,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "さとう+Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.4,
 				"noteDesigner": "サトウ+Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.1,
 				"noteDesigner": "佐藤"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10849,22 +10849,22 @@
 		"songNameTranslated": "Kakushinteki☆Metamaru Forze!",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.2,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.5,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10878,22 +10878,22 @@
 		"songNameTranslated": "Night of Knights",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "タノシーストア高橋"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9,
 				"noteDesigner": "PAD長高橋"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12,
 				"noteDesigner": "紅魔館のメイド高橋"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10907,22 +10907,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.5,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10936,22 +10936,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.7,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.8,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.4,
 				"noteDesigner": "タノシーストア高橋"
 			}
@@ -10965,22 +10965,22 @@
 		"songNameTranslated": "matryoshka",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.2,
 				"noteDesigner": "Sam+るくあんす"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -10994,22 +10994,22 @@
 		"songNameTranslated": "Sand Planet feat. Hatsune Miku",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "さとう+炭火焼き推奨P"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "サトウ+炭火焼き推奨P"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "佐藤+炭火焼き推奨P"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11023,22 +11023,22 @@
 		"songNameTranslated": "alien alien",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.7,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.5,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11052,22 +11052,22 @@
 		"songNameTranslated": "turn! Setsugetsuka",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 13.8,
 				"noteDesigner": "るくあんす"
 			}
@@ -11081,22 +11081,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "トパゾライトグリーン"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.7,
 				"noteDesigner": "トパゾライトグリーン"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.6,
 				"noteDesigner": "トパゾライトグリーン"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11110,22 +11110,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "レッドアリスレッド"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.8,
 				"noteDesigner": "レッドアリスレッド"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.9,
 				"noteDesigner": "レッドアリスレッド"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11139,22 +11139,22 @@
 		"songNameTranslated": "Fatima",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.8,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.5,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11168,22 +11168,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 4,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.9,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 12.9,
 				"noteDesigner": "とぱぞ"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11197,22 +11197,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.1,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11226,22 +11226,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 1,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 5.3,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.6,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11255,22 +11255,22 @@
 		"songNameTranslated": "peace sign",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 6.9,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 9.8,
 				"noteDesigner": "MSR"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11284,22 +11284,22 @@
 		"songNameTranslated": "sugar song and bitter step",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11313,22 +11313,22 @@
 		"songNameTranslated": "Senbonzakura",
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 2,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.9,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.4,
 				"noteDesigner": "Sam"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11342,22 +11342,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 7.7,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 10.8,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11371,22 +11371,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 5,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 9.9,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.8,
 				"noteDesigner": "あかぞらいと"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11400,22 +11400,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 6,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 10.9,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 13.3,
 				"noteDesigner": "レッドアリス"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
@@ -11429,22 +11429,22 @@
 		"songNameTranslated": null,
 		"difficulties": [
 			{
-				"chartId": 0,
+				"chartId": 1,
 				"level": 3,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 1,
+				"chartId": 2,
 				"level": 8.7,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 2,
+				"chartId": 3,
 				"level": 11.4,
 				"noteDesigner": "DJ Genki"
 			},
 			{
-				"chartId": 3,
+				"chartId": 4,
 				"level": 0,
 				"noteDesigner": "-"
 			}
