@@ -144,4 +144,18 @@ module.exports = {
 
         await interaction.editReply({ content: 'Unhandled leaderboard request.', ephemeral: true });
 	},
+    /**
+	 * @param {ButtonInteraction} interaction
+	 */
+    async button(interaction) {
+        let commandData = (interaction.customId).split("|")
+
+        if (commandData[1] == "global")
+        {
+            // TODO: Do page math for global!
+        } else
+        {
+            // TODO: Do page math for song!
+        }
+    }
 };
