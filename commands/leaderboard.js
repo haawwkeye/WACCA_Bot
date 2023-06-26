@@ -43,7 +43,7 @@ module.exports = {
 
         const diffList = client.diffList;
         const diffColorList = client.diffColorList;
-        const gradeList = client.gradeList;
+        // const gradeList = client.gradeList;
         
         const subcommand = options?.getSubcommand();
 
@@ -127,7 +127,7 @@ module.exports = {
                         if (!profile) profile = { username: `FAILED TO GET USER ${data.user}` };
                         else profile = profile[0];
 
-                        lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: `Score: **${data.score}**\nMax Combo: **${data.best_combo}**\nGrade: **${gradeList[data.grade]}**` });
+                        lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: `Score: **${data.score}**\nMax Combo: **${data.best_combo}**\nGrade: **NOT DONE**` });
                     }
                 }
 

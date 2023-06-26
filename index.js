@@ -16,6 +16,7 @@ let scoresUpdateInt;
 
 const fs = require("fs");
 const path = require("path");
+const songList = require(`${__dirname}/SongList.json`);
 
 const backup_logger = {
 	debug: console.debug,
@@ -62,6 +63,7 @@ const client = new Client({
 });
 
 // #region Death
+/*
 const DEATH = require('like-process');
 let hasDied = false;
 let hasFileWrite = false;
@@ -103,6 +105,7 @@ DEATH.handle(['unhandledRejection', 'uncaughtException', 'exit', 'SIGHUP', 'SIGI
 		console.log(`[DEATH] Event: ${evt} Error: ${err}`);
 	}
 });
+*/
 // #endregion
 
 async function queryDatabase(database, command)
@@ -155,7 +158,7 @@ client.queryDatabase = queryDatabase;
 
 
 client.logger = logger;
-client.songList = require(`${__dirname}/SongList.json`);
+client.songList = songList;
 
 let updating = false;
 
@@ -196,27 +199,35 @@ client.gradeList = gradeList;
 
 async function createUserScoreEmbed(data)
 {
-	let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE userid="${data.user}";`);
+	let rawProfileData = await queryDatabase(database, `SELECT * FROM wacca_profile WHERE user="${data.user}";`);
 	
 	if (rawProfileData.length == 0) rawProfileData = [{ username: `FAILED TO GRAB USER ${data.user}` }] // User not found
 
 	let user = rawProfileData[0]; // Get user
 
 	let result = songList.find(song => {
-		return song.songId === sid;
+		return song.songId === data.song_id;
 	});
+
+	let date = data.date_scored;
 
 	let embed = new EmbedBuilder()
 		.setColor(diffColorList[data.chart_id-1])
 		.setTitle(`${user.username} just passed a map on ${diffList[data.chart_id-1]} Difficulty!`)
 		.addFields(
 			{ name: "Map Name :", value: `${result.songName} by ${result.songArtist}` },
-			{ name: "Map Name :", value: `${result.songName} by ${result.songArtist}` },
-			{ name: "Map Id :", value: `${data.song_id}.${data.chart_id}` },
-			{ name: "Score :", value: `${data.score}` },
-			{ name: "Max Combo :", value: `${data.max_combo}` },
-			{ name: "Grade :", value: `${gradeList[data.grade-1]}` },
-		);
+		)
+		.setFooter({ text: "WACCA Private Server", "iconURL": client.user.avatarURL({ size: 128 }) })
+		.setTimestamp((date.getTime() - date.getTimezoneOffset()*60*1000)/1000);
+
+	if (result.songNameTranslated) embed.addFields({ name: "Translated Map Name :", value: `${result.songNameTranslated}` });
+
+	embed.addFields(
+		{ name: "Map Id :", value: `${data.song_id}.${data.chart_id}` },
+		{ name: "Score :", value: `${data.score}` },
+		{ name: "Max Combo :", value: `${data.max_combo}` },
+		{ name: "Grade :", value: `${gradeList[data.grade-1]}` },
+	);
 
 	return embed;
 }
@@ -463,21 +474,32 @@ client.login(token);
 
 if (!fs.existsSync(path.join(__dirname, "botdata.json"))) fs.writeFileSync(path.join(__dirname, "botdata.json"), "{}");
 let botData = JSON.parse(fs.readFileSync(path.join(__dirname, "botdata.json")));
-let lastId = botData.lastScoreId ?? 0;
+let lastId = botData.lastScoreId ?? 1;
 
 client.botData = botData;
 
 scoresUpdateInt = setInterval(async () => {
 	if (!scoresChannelId) return clearInterval(scoresUpdateInt);
 	if (!client.scoresChannel) client.scoresChannel = await client.channels.fetch(scoresChannelId);
-	// let scoresChannel = client.scoresChannel;
-	// console.log(client.scoresChannel);
+	let scoresChannel = client.scoresChannel;
+	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+10};`);
+	let embeds = [];
 
-	// TODO: Score check
+	if (rawPlaylogData.length > 0)
+	{
+		lastId += rawPlaylogData.length; // Add only the amount the db has
 
+		for (let i = 0; i < rawPlaylogData.length; i++) {
+			const data = rawPlaylogData[i];
+			embeds.push(await createUserScoreEmbed(data));
+		}
+	
+		scoresChannel.send({ embeds: embeds });
 
-	// Set lastId after doing everything!
-	client.botData.lastScoreId = lastId;
+		// Set lastId after doing everything!
+		client.botData.lastScoreId = lastId;
+		if (client.botData) fs.writeFileSync(path.join(__dirname, "botdata.json"), JSON.stringify(client.botData, null, "\t"));
+	}
 }, scoresUpdateMS)
 
 module.exports = client;
