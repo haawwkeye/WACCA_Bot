@@ -478,11 +478,11 @@ let lastId = botData.lastScoreId ?? 1;
 
 client.botData = botData;
 
-scoresUpdateInt = setTimeout(async () => {
-	// if (!scoresChannelId) return clearInterval(scoresUpdateInt);
+scoresUpdateInt = setInterval(async () => {
+	if (!scoresChannelId) return clearInterval(scoresUpdateInt);
 	if (!client.scoresChannel) client.scoresChannel = await client.channels.fetch(scoresChannelId);
 	let scoresChannel = client.scoresChannel;
-	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+1};`);
+	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+10};`);
 	let embeds = [];
 
 	if (rawPlaylogData.length > 0)
@@ -500,6 +500,6 @@ scoresUpdateInt = setTimeout(async () => {
 		client.botData.lastScoreId = lastId;
 		if (client.botData) fs.writeFileSync(path.join(__dirname, "botdata.json"), JSON.stringify(client.botData, null, "\t"));
 	}
-}, 2000)//scoresUpdateMS)
+}, scoresUpdateMS)
 
 module.exports = client;
