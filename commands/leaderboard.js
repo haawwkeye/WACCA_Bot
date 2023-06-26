@@ -1,13 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 const { SlashCommandBuilder, ChatInputCommandInteraction, EmbedBuilder } = require('discord.js');
 
-const diffList = [
-    "Normal",
-    "Hard",
-    "Expert",
-    "INFERNO"
-]
-
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('leaderboard')
@@ -47,6 +40,10 @@ module.exports = {
 
         const database = client.database;
         const query = client.queryDatabase;
+
+        const diffList = client.diffList;
+        const diffColorList = client.diffColorList;
+        const gradeList = client.gradeList;
         
         const subcommand = options?.getSubcommand();
 
@@ -112,7 +109,7 @@ module.exports = {
                 // console.log(rawBestScoreData);
 
                 let lbEmbed = new EmbedBuilder()
-                    .setColor(0x0099FF)
+                    .setColor(diffColorList[cid-1])
                     .setTitle(`${result.songName} by ${result.songArtist} Leaderboard`);
                 
                 // TODO: Replace this with an more complex thing
@@ -130,7 +127,7 @@ module.exports = {
                         if (!profile) profile = { username: `FAILED TO GET USER ${data.user}` };
                         else profile = profile[0];
 
-                        lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: `Score: **${data.score}**\nMax Combo: **${data.best_combo}**\nGrade: **TODO**` });
+                        lbEmbed.addFields({ name: `#${index} ${profile.username}`, value: `Score: **${data.score}**\nMax Combo: **${data.best_combo}**\nGrade: **${gradeList[data.grade]}**` });
                     }
                 }
 

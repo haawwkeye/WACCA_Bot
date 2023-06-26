@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 // Require the necessary discord.js classes
-const { Client, Collection, Events, GatewayIntentBits, ApplicationCommandType, PermissionsBitField } = require('discord.js');
+const { Client, Collection, Events, GatewayIntentBits, ApplicationCommandType, PermissionsBitField, EmbedBuilder } = require('discord.js');
 
 // This will stop warning for when testing on none bot stuff aka when I don't need the bot logged in
 // eslint-disable-next-line no-unused-vars
@@ -158,6 +158,68 @@ client.logger = logger;
 client.songList = require(`${__dirname}/SongList.json`);
 
 let updating = false;
+
+const diffList = [
+    "Normal",
+    "Hard",
+    "Expert",
+    "Inferno"
+];
+
+const diffColorList = [
+    "#009de6",
+    "#fed131",
+    "#fc06a3",
+    "#4a004f"
+];
+
+const gradeList = [
+	"D",
+	"C",
+	"B",
+	"A",
+	"AA",
+	"AAA",
+	"AAA+",
+	"S",
+	"S+",
+	"SS",
+	"SS+",
+	"SSS",
+	"SSS+",
+	"MASTER",
+]
+
+client.diffList = diffList;
+client.diffColorList = diffColorList;
+client.gradeList = gradeList;
+
+async function createUserScoreEmbed(data)
+{
+	let rawProfileData = await query(database, `SELECT * FROM wacca_profile WHERE userid="${data.user}";`);
+	
+	if (rawProfileData.length == 0) rawProfileData = [{ username: `FAILED TO GRAB USER ${data.user}` }] // User not found
+
+	let user = rawProfileData[0]; // Get user
+
+	let result = songList.find(song => {
+		return song.songId === sid;
+	});
+
+	let embed = new EmbedBuilder()
+		.setColor(diffColorList[data.chart_id-1])
+		.setTitle(`${user.username} just passed a map on ${diffList[data.chart_id-1]} Difficulty!`)
+		.addFields(
+			{ name: "Map Name :", value: `${result.songName} by ${result.songArtist}` },
+			{ name: "Map Name :", value: `${result.songName} by ${result.songArtist}` },
+			{ name: "Map Id :", value: `${data.song_id}.${data.chart_id}` },
+			{ name: "Score :", value: `${data.score}` },
+			{ name: "Max Combo :", value: `${data.max_combo}` },
+			{ name: "Grade :", value: `${gradeList[data.grade-1]}` },
+		);
+
+	return embed;
+}
 
 function dateToString(date)
 {
@@ -410,6 +472,9 @@ scoresUpdateInt = setInterval(async () => {
 	if (!client.scoresChannel) client.scoresChannel = await client.channels.fetch(scoresChannelId);
 	// let scoresChannel = client.scoresChannel;
 	// console.log(client.scoresChannel);
+
+	// TODO: Score check
+
 
 	// Set lastId after doing everything!
 	client.botData.lastScoreId = lastId;
