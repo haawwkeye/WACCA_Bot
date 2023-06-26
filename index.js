@@ -217,8 +217,7 @@ async function createUserScoreEmbed(data)
 		.addFields(
 			{ name: "Map Name :", value: `${result.songName} by ${result.songArtist}` },
 		)
-		.setFooter({ text: "WACCA Private Server", "iconURL": client.user.avatarURL({ size: 128 }) })
-		.setTimestamp((date.getTime() - date.getTimezoneOffset()*60*1000)/1000);
+		.setFooter({ text: "WACCA Private Server", "iconURL": client.user.avatarURL({ size: 128 }) });
 
 	if (result.songNameTranslated) embed.addFields({ name: "Translated Map Name :", value: `${result.songNameTranslated}` });
 
@@ -227,6 +226,7 @@ async function createUserScoreEmbed(data)
 		{ name: "Score :", value: `${data.score}` },
 		{ name: "Max Combo :", value: `${data.max_combo}` },
 		{ name: "Grade :", value: `${gradeList[data.grade-1]}` },
+		{ name: "Date Scored :", value: dateToString(date) }
 	);
 
 	return embed;
@@ -478,11 +478,11 @@ let lastId = botData.lastScoreId ?? 1;
 
 client.botData = botData;
 
-scoresUpdateInt = setInterval(async () => {
-	if (!scoresChannelId) return clearInterval(scoresUpdateInt);
+scoresUpdateInt = setTimeout(async () => {
+	// if (!scoresChannelId) return clearInterval(scoresUpdateInt);
 	if (!client.scoresChannel) client.scoresChannel = await client.channels.fetch(scoresChannelId);
 	let scoresChannel = client.scoresChannel;
-	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+10};`);
+	let rawPlaylogData = await queryDatabase(database, `SELECT * FROM wacca_score_playlog WHERE id >= ${lastId} AND id < ${lastId+1};`);
 	let embeds = [];
 
 	if (rawPlaylogData.length > 0)
@@ -500,6 +500,6 @@ scoresUpdateInt = setInterval(async () => {
 		client.botData.lastScoreId = lastId;
 		if (client.botData) fs.writeFileSync(path.join(__dirname, "botdata.json"), JSON.stringify(client.botData, null, "\t"));
 	}
-}, scoresUpdateMS)
+}, 2000)//scoresUpdateMS)
 
 module.exports = client;
