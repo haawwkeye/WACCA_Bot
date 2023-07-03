@@ -132,6 +132,7 @@ dist
 
 # DEV files
 RemoteConnect.bat
+SongList.json
 __SongList.json
 __MusicList.json
 # filter.js
