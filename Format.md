@@ -15,3 +15,15 @@ TODO: Make this look better
 - db_password: string, The password of the user you want to sign-in to
 - db_name: string, The name of the database you want to use
 - db_port: number, The port number the database is running on
+
+## SongList.json
+
+- songId: number, SongId
+- BPM: float, Song BPM
+- songArtist: string, Song Artist
+- songName: string, Song Name
+- songNameTranslated: string?, English Song Name if there is one
+- difficulties: [{ChartInfo}]
+  - chartId: number, The chartId of the map
+  - level: number, The Difficulty of the map
+  - noteDesigner: string, The Note Designer of the map
