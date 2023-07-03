@@ -6,7 +6,7 @@ Current the only game I made this support is WACCA
 
 TODO page can be found [here](/TODO.md)
 
-.env format can be found [here](/Format.md#.env)
+Formats can be found [here](/Format.md)
 
 ## Pre-requisites
 
